@@ -1616,3 +1616,4 @@ Value listlockunspent(const Array& params, bool fHelp)
 
     return ret;
 }
+

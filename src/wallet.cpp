@@ -1927,3 +1927,4 @@ void CWallet::ListLockedCoins(std::vector<COutPoint>& vOutpts)
         vOutpts.push_back(outpt);
     }
 }
+

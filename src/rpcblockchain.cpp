@@ -267,3 +267,4 @@ Value verifychain(const Array& params, bool fHelp)
 
     return VerifyDB(nCheckLevel, nCheckDepth);
 }
+
