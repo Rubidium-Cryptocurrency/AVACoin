@@ -1,5 +1,10 @@
-Building Bitcoin
-================
+Building Litecoin
 
-See doc/build-*.md for instructions on building the various
-elements of the Bitcoin Core reference implementation of Bitcoin.
+See doc/readme-qt.rst for instructions on building AVAcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Litecoin.
+
+See doc/build-*.txt for instructions on building litecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Litecoin.
+
